@@ -71,7 +71,7 @@ Depth 9
 #### Results showed:
 
 Best Model: max_depth = 7  
-Test MSE ≈ 7783  
+Test MSE ≈ 7760 
 
 The decision tree model performed better than linear regression and captured more complex relationships in the data.
 
@@ -79,7 +79,7 @@ The decision tree model performed better than linear regression and captured mor
 ### Model Comparison
 
 Linear Regression Test MSE: ~8433  
-Decision Tree Test MSE: ~7783  
+Decision Tree Test MSE: ~7760  
 
 The decision tree model produced more accurate predictions and was selected as the final recommended model.
 
